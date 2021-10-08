@@ -1,7 +1,7 @@
 ## Digital Transformation Management
 
 
-### e
+
 ### eSign
 
 Information on integrations such as DocuSign, AdobeSign & HelloSign.
